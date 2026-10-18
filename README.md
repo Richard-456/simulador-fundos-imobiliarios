@@ -127,6 +127,20 @@ Usar nomes no lugar de `$C$7` deixa a fórmula legível: `=-VF(taxa_mensal; praz
 
 ---
 
+## Prints
+
+A mesma simulação — R$ 1.000 por mês, 10 anos, 0,8% ao mês — rodando em dois perfis diferentes. O patrimônio e os dividendos são os mesmos; o que muda é a divisão do aporte entre os tipos de fundo e o gráfico.
+
+### Perfil Conservador
+
+![Simulador no perfil Conservador](./prints/conservador.png)
+
+### Perfil Arrojado
+
+![Simulador no perfil Arrojado](./prints/arrojado.png)
+
+---
+
 ## Checklist de entrega
 
 - [x] A planilha abre sem erro de fórmula e responde às cinco perguntas
@@ -134,7 +148,7 @@ Usar nomes no lugar de `$C$7` deixa a fórmula legível: `=-VF(taxa_mensal; praz
 - [x] Cada perfil soma 100%
 - [x] Salário e demais valores publicados são de exemplo
 - [x] Repositório público, nome em minúsculas e sem acento
-- [ ] Prints da ferramenta preenchida nos dois perfis (adicionar em `/prints`)
+- [x] Prints da ferramenta preenchida nos dois perfis
 
 ---
 
